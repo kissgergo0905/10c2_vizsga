@@ -6,7 +6,8 @@ header {
   border: 1px solid white;
   color: white;
   text-align: center;
-  
+  font-weight: 50px ;
+
 }
 
 header h1 {
@@ -15,7 +16,7 @@ header h1 {
   letter-spacing: 25px;
   text-shadow: 5px 0 5px #000;
   -moz-text-shadow: 5px 0 5px #000;
-  -webkit-text-shadow: 5px 0 5px #000;
+  -webkit-text-shadow: 5px 0 5px #000;  
 }
 
 .nav-link {
